@@ -11,7 +11,7 @@ module.exports = {
     siteUrl: `https://www.nuridavid.com`,
     siteDescription: `Nuri David Portfolio`,
     siteLanguage: `en`,
-    siteImage: `/nuri-logo.jpeg`,
+    siteImage: `/nuri-logo.png`,
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
