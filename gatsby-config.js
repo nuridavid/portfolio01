@@ -34,14 +34,14 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/static/nuri-logo.jpeg`,
             sizes: `192x192`,
-            type: `image/png`,
+            type: `image/jpeg`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/static/nuri-logo.jpeg`,
             sizes: `512x512`,
-            type: `image/png`,
+            type: `image/jpeg`,
           },
         ],
       },
