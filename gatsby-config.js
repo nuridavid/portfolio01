@@ -5,10 +5,16 @@ const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Nuri David Portfolio`,
+    siteTitleAlt: `Nuri David Portfolio`,
+    siteHeadline: `Nuri David Portfolio`,
+    siteUrl: `https://www.nuridavid.com`,
+    siteDescription: `Nuri David Portfolio`,
+    siteLanguage: `en`,
+    siteImage: `/nuri-logo.jpeg`,
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Nuri David Portfolio`,
   },
   plugins: [
     {
